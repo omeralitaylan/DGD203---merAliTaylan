@@ -1,0 +1,14 @@
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\bin\Debug\net6.0\CarSystem.exe
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\bin\Debug\net6.0\CarSystem.deps.json
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\bin\Debug\net6.0\CarSystem.runtimeconfig.json
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\bin\Debug\net6.0\CarSystem.dll
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\bin\Debug\net6.0\CarSystem.pdb
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.AssemblyInfoInputs.cache
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.AssemblyInfo.cs
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.csproj.CoreCompileInputs.cache
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.dll
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\refint\CarSystem.dll
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.pdb
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\CarSystem.genruntimeconfig.cache
+c:\Users\Ömer Ali\Desktop\DGD203-CarAs-ÖmerAliTaylan-241116\obj\Debug\net6.0\ref\CarSystem.dll

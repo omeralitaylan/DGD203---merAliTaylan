@@ -19,7 +19,7 @@ class Program
             new Safety(6, true, true, true),
             new Performance(3.9, 300, 12.5, "Sport+"),
             "Ferrari 488", 2023
-        );
+        );  
 
         // Create a family SUV
         IVehicle familySUV = new Car(
